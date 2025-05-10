@@ -1,0 +1,15 @@
+{
+  "name": "face-recognition-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot server for face recognition system",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "node chatbot.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0",
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.9"
+  }
+} 
